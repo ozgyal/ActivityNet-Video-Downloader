@@ -26,7 +26,7 @@ This simple script is for downloading videos of ActivityNet dataset by parsing U
 	directory = '/path/to/your/directory/'
     ```
 
-4. Videos will be downloaded in ".flv" format. If you want to change this, you can modificate the following line by considering [Pafy's website](https://pypi.python.org/pypi/pafy):
+4. Videos will be downloaded in ".flv" format. If you want to change this, you can modify the following line by considering [Pafy's website](https://pypi.python.org/pypi/pafy):
 
 	```python
 	best = video.getbest(preftype="flv")
