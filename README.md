@@ -4,7 +4,7 @@ This simple script is for downloading videos of ActivityNet dataset by parsing U
 
 ## Using activityNetDownloader
 
-1. Install the prerequisites.:
+1. Install the prerequisites.
 
 	- Python 2.7
 	
